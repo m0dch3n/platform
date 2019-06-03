@@ -1,0 +1,2 @@
+# platform
+Simple Platform Detection
