@@ -1,0 +1,24 @@
+{
+  "name": "@m0dch3n/platform",
+  "version": "1.0.2",
+  "description": "Simple Platform Detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0dch3n/platform.git"
+  },
+  "keywords": [
+    "Platform",
+    "Browser",
+    "User-Agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0dch3n/platform/issues"
+  },
+  "homepage": "https://github.com/m0dch3n/platform#readme"
+}
